@@ -9,7 +9,7 @@ Berdasarkan exploratory data analysis yang telah dilakukan,  rekomendasi terkait
 3. Dari 380 customer yang pernah melakukan perjalanan internasional, sebanyak 78,42% memiliki asuransi perjalanan. Hal ini dapat disebabkan oleh benefit yang menguntungkan dan dapat memberikan rasa aman jika terdapat kendala kesehatan ataupun finansial dalam perjalanan tersebut. Di sisi lain, dari 1607 customer yang belum pernah melakukan perjalanan internasional hanya terdapat 25,64% customer yang memiliki asuransi perjalanan. Kita dapat mempertimbangkan untuk menambahkan benefit yang akan meningkatkan rasa aman dan nyaman dalam perjalanan domestik seperti ganti rugi perubahan jadwal, fasilitas yang didapatkan jika terdapat halangan ataupun kendala dalam melakukan perjalanan, dan sejenisnya..
 
 
-### Tim 10 
+### Team 10 - DataGigs
 1. Devina
 2. Hani Kurnia
 3. Yudanta A
